@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Ajay Gupta",
+    "title": "Software Developer Engineer @ Jio Platforms Limited",
+    "summary": "Software Engineer with 3+ years of experience building scalable, high-performance web applications using Angular, React, TypeScript, and RxJS. Skilled in developing component-driven architectures, microfrontend systems, and module federation based applications. Experienced in integrating REST APIs, implementing state management with NgRx, and optimizing UI performance for enterprise-scale platforms. Proven ability to collaborate with cross-functional teams in Agile environments, deliver production-ready features, and improve system maintainability through reusable frontend architecture.",
+    "location": "Mumbai, India - 400064",
+    "email": "ajaygupta2224@gmail.com",
+    "phone": "+91-9702067569",
+    "links": {
+      "LinkedIn": "www.linkedin.com/in/ajay-gupta-4281311ab",
+      "Portfolio": "#"
+    }
+  },
+  "experience": [
+    {
+      "company": "Jio Platforms Limited",
+      "role": "Software Developer Engineer",
+      "dates": "Jun 2022 - Present",
+      "location": "Mumbai, India",
+      "bullets": [
+        "Developed scalable enterprise web applications using Angular, TypeScript, HTML, CSS, and RxJS.",
+        "Designed and implemented modular UI components and reusable frontend libraries, improving development speed and consistency across multiple modules.",
+        "Implemented Microfrontend architecture using Module Federation, enabling independent deployment of frontend repositories and improving application scalability.",
+        "Integrated RESTful APIs and Strapi CMS collections to manage dynamic data and business workflows.",
+        "Built responsive and user-friendly interfaces ensuring cross-browser compatibility and optimized performance.",
+        "Collaborated with DevOps teams to configure CI/CD pipelines, enabling automated builds and multi-environment deployments.",
+        "Conducted code reviews and debugging sessions to maintain code quality and improve application reliability.",
+        "Led development tasks for multiple frontend modules and mentored junior developers during onboarding and project execution.",
+        "Worked closely with product managers, backend engineers, and QA teams to deliver high-quality software aligned with business requirements.",
+        "Delivered weekly sprint updates and tracked development milestones in Agile development cycles."
+      ]
+    }
+  ],
+  "achievements": [],
+  "projects": [
+    {
+      "title": "JioCX",
+      "stack": [
+        "Angular",
+        "HTML",
+        "CSS",
+        "Strapi"
+      ],
+      "bullets": [
+        "Currently working at Jio CX, focusing on developing a Cpass tool.",
+        "This tool enables businesses to execute voice call marketing campaigns, delivering promotional offers, product updates, and exclusive deals directly to their customers."
+      ],
+      "links": {}
+    },
+    {
+      "title": "People First",
+      "stack": [
+        "Angular",
+        "HTML",
+        "CSS"
+      ],
+      "bullets": [
+        "This project helps professionals manage team tasks, track project progress, and improve transparency within the organization",
+        "People First is based on Reliance's employee management system."
+      ],
+      "links": {}
+    },
+    {
+      "title": "JioFace",
+      "stack": [
+        "Angular",
+        "HTML",
+        "CSS",
+        "Strapi"
+      ],
+      "bullets": [
+        "JioFace, a Face Recognition attendance system.",
+        "leverages REST APIs for seamless integration, utilizes Strapi collections for efficient data management, and implements module federation for enhanced scalability and flexibility."
+      ],
+      "links": {}
+    }
+  ],
+  "skills": [
+    {
+      "category": "Technologies",
+      "items": [
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "React",
+        "Bootstrap",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Microsoft Azure",
+        "Visual Studio",
+        "Postman",
+        "Git",
+        "Strapi"
+      ]
+    },
+    {
+      "category": "Others",
+      "items": [
+        "Angular Material",
+        "Module Federation",
+        "RxJs",
+        "NgRx",
+        "Tailwind CSS",
+        "SCSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Thakur College of Science and Commerce, Mumbai University, India",
+      "degree": "Bachelor of Science in Information Technology | CGPA: 9.3",
+      "dates": "2019 - 2022"
+    },
+    {
+      "institution": "S.S & L.S Patkar College of Arts & Science, Maharashtra Board, India",
+      "degree": "Science Stream (Class XII), Aggregate: 72.46",
+      "dates": "2017 - 2019"
+    },
+        {
+      "institution": "Sheth N.L. High School, Maharashtra Board, India",
+      "degree": "SSC (Class X), Aggregate: 91.40",
+      "dates": "2017"
+    }
+  ],
+  "certifications": [
+    "Start Writing Prompts like a Pro",
+    "Certificate of completion: Claude 101",
+    "ChatGPT Prompt Engineering for Developers"
+  ],
+  "awards": [],
+  "extra": []
+}
